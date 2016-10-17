@@ -1,0 +1,18 @@
+<!-- 2016/10/17 vvt -->
+<apex:page Controller="VVT_HomePageCtr">
+	<apex:form >
+		<apex:pageBlock >
+			<apex:pageBlockSection title="LUYEN THI TRAC NGHIEM TIENG ANH"
+				columns="1">
+			</apex:pageBlockSection>
+			<h1 style="text-align: center;">DANH MUC CAU HOI</h1>
+			<br/><br/><br/>
+			<div style="text-align: center;padding: 30px;">
+				<apex:commandButton action="{!doView}" value="View" />
+				<apex:commandButton action="{!doNext}" value="Next" />
+			</div>
+
+		</apex:pageBlock>
+
+	</apex:form>
+</apex:page>

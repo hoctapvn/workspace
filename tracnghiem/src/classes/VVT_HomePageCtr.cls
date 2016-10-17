@@ -1,0 +1,13 @@
+//2016/10/17 vvt
+public with sharing class VVT_HomePageCtr {
+	
+	public VVT_HomePageCtr(){
+		
+	}
+	public void doView(){
+	
+	}
+	public void doNext(){
+	
+	}
+}
