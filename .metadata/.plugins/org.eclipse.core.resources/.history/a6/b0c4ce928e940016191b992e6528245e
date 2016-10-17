@@ -1,4 +1,4 @@
-//2016/10/17 vvt12334553453
+//2016/10/17 vvt
 public with sharing class VVT_HomePageCtr {
 	
 	public VVT_HomePageCtr(){
